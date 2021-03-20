@@ -13,7 +13,7 @@ def hello_world():
 def test(num):
 
     if int(num) >= 200:
-        return "大於200"
+        return "大於200喔"
     else:
         return "小於200"
 
